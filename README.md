@@ -15,8 +15,10 @@ For the beginners this repo is perfect to start with open source or programming.
 ## Contributing
 Any pattern from stars to harmonographs is welcome.
 Just,
-1. Fork it!
+1. Fork it
 2. Write your code
 3. Commit your changes
 5. Submit a pull request
+
+Take the Challenge, Each Day a new pattern!
 
